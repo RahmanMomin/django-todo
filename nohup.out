@@ -1,0 +1,11 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 30, 2024 - 18:15:50
+Django version 4.2.11, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+[30/Nov/2024 18:16:05] "GET /todos/ HTTP/1.1" 200 2906
+[30/Nov/2024 18:16:05] "GET /static/css/style.css HTTP/1.1" 304 0
